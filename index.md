@@ -6,10 +6,10 @@ We are a growing community at University of California, Berkeley interested in:
 * inspiring and enabling researchers to open their workflows
 * identifying obstacles and need for support
 
-Contact:
+### Contact:
 Interested in joining the OSC/b or learning about future events? 
 
 Join the discussion on our [Google Group](https://groups.google.com/d/forum/openscience-berkeley)
-or email [Sam Teplitzky]: steplitz@berkeley.edu
+or email [Sam Teplitzky](steplitz@berkeley.edu)
 
 
