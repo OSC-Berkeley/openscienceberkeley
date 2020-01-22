@@ -1,4 +1,4 @@
-## Welcome to OSC/b, the Open Science Community at Berkeley!
+
 
 We are a growing community at University of California, Berkeley interested in:
 * making Open Science more visible and accessible
