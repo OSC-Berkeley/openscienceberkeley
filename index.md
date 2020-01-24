@@ -9,7 +9,7 @@ We are a growing community at University of California, Berkeley interested in:
 ### Contact:
 Interested in joining the OSC/b or learning about future events? 
 
-Join the discussion on our [Google Group](https://groups.google.com/d/forum/openscience-berkeley)
+Join the discussion on our [Google Group](https://groups.google.com/a/lists.berkeley.edu/d/forum/openscience)
 or email [Sam Teplitzky](steplitz@berkeley.edu)
 
 
